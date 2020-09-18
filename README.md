@@ -13,7 +13,7 @@ This notebook is divided into following classes
     <li> <b>Make Request:</b> Makes a get/ post request. Returns <strike>yummy</strike> beautiful soup (:P) if asked for!</li>
     <li> <b>Download Photos:</b> Makes a get request to get image stream and download at specified path</li>
 </ul>
-<br>
+
 ## Class To Login to Base site
 ### It has the below methods
 <ul>
@@ -22,7 +22,7 @@ This notebook is divided into following classes
     <li> <b>Logout</b>: Makes a call to utility function clear cookies to delete the session.</li>
     <li> Also has a class variable, <b>Util</b> to have an instance for <b>Utility Methods</b></li>
   </ul>
-  <br>
+  
   ## Class for getting the profile to scrape
 ### A Child class for Login
 ### It has the below methods
@@ -34,7 +34,7 @@ This notebook is divided into following classes
     <li> <b>Prepare Profile Url:</b> Appends basic details to profile url or creates a profile from scratch if username is given</li>
     <li> <b>Get Profile:</b> Gets the requested profile's beautiful soup internally calling other methods to generate the same</li>
 </ul>
-<br>
+
 ## Class for taking the scraping actions on profile
 ### A Child class for Profile
 ### It has the below methods
