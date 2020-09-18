@@ -49,5 +49,6 @@ This notebook is divided into following classes
 <br>
 p.s., This project is purely developed for <b>learning purposes</b> and is intended to be used for same.
 <br>p.p.s., <b>Avoid using on google colab</b>, probably due to some ip restrictions/ proxies, you won't be able to scrape there. But yeah, you may try. Either you'll end up banging your head on the wall or enlighten us all with a solution! :P
+
 ### Happy <strike>Scraping</strike> Learning! 
 ## Do refer to legal risks involved in scraping and do it at your own risk
